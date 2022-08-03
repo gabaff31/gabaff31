@@ -6,4 +6,4 @@ Sono Gabriele Affronto e sono uno studente di Informatica presso l'**Università
 > [Valorant Quiz Game](https://roronoajin.github.io/ValorantQuizGame/) 🎮
 
 #### Contatti
-📧 [Mail](<affrontogabriele@protonmail.com>)
+📧 [Mail](mailto:affrontogabriele@protonmail.com)
