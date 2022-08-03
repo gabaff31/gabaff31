@@ -1,4 +1,9 @@
-### Hi there 👋
+### Benvenuto nel mio profilo!
+
+Sono Gabriele Affronto e sono uno studente di Informatica presso l'**Università degli Studi di Catania**. Sin da quando ero piccolo ho sempre avuto una passione per la tecnologia e il mondo informatico. Ad oggi la mia ambizione è quellla di diventare ***front-end developer***.
+
+##### Progetti attualmente completati
+> [Valorant Quiz Game](https://roronoajin.github.io/ValorantQuizGame/)
 
 <!--
 **RoronoaJin/RoronoaJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
