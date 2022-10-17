@@ -3,8 +3,8 @@
 Sono Gabriele Affronto e sono uno studente di Informatica presso l'**Università degli Studi di Catania**. Sin da quando ero piccolo ho sempre avuto una passione per la tecnologia e il mondo informatico. Ad oggi la mia ambizione è quellla di diventare ***front-end developer***.
 
 ### Progetti attualmente completati
-> [Valorant Quiz Game](https://roronoajin.github.io/ValorantQuizGame/) 🎮
-> [THE INCREDIBLE COLORS BUZZER](https://github.com/RoronoaJin/THE-INCREDIBLE-COLORS-BUZZER) 🎮
+> [Valorant Quiz Game](https://roronoajin.github.io/ValorantQuizGame/) 🎮 <br>
+> [THE INCREDIBLE COLORS BUZZER](https://roronoajin.github.io/THE-INCREDIBLE-COLORS-BUZZER/) 🎮
 
 #### Contatti
 📧 [Mail](mailto:affrontogabriele@protonmail.com)
