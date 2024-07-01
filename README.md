@@ -4,6 +4,7 @@ Sono Gabriele Affronto e sono un Junior Frontend Developer laureato presso l'**U
 
 ### Progetti attualmente completati
 > [THE INCREDIBLE COLORS BUZZER](https://gabaff31.github.io/THE-INCREDIBLE-COLORS-BUZZER/) 🎮
+
 > [A TypeScript-based library to handle notifications](https://github.com/gabaff31/notifications-library) & [The sandbox used to try it](https://github.com/gabaff31/sandbox-notifications-library)
 
 #### Contatti
